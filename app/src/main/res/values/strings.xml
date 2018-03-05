@@ -3,6 +3,7 @@
     <string name="franja_uno">Banda Uno</string>
     <string name="resistencia_text">Para calcular la resistencia,haz click en cada banda</string>
     <string name="Calcular">CALCULAR</string>
-    <string name="valor_Resistencia">El valor de la resistencia es:</string>
+    <string name="valor_Resistencia">El valor de la resistencia depende la combinación de colores.
+        Para esta combinacion su valor es:</string>
     <string name="text_result">Aquí aparecera el resultado!</string>
 </resources>
